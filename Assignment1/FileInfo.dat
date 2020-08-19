@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="HK13Assignment1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 16:10:21</Property>
+      <Property Name="RunDuration">00:00:28</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="HK13Assignment2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 16:10:40</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="HKAssignment3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 16:11:31</Property>
+      <Property Name="RunDuration">00:00:33</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="HK13Assignment3.atmx">
+    <Properties>
+      <Property Name="LastRunTime">08/18/2020 16:17:02</Property>
+      <Property Name="RunDuration">00:00:35</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
